@@ -1,0 +1,73 @@
+{
+  "id": 1,
+  "title": "Приключения Незнайки и его друзей",
+  "author": [
+    {
+      "full_name": "Николай Носов"
+    }
+  ],
+  "publishing_house": "Самовар",
+  "year": 2015,
+  "number_pages": 160,
+  "genre": [
+    {
+      "name": "Повести"
+    },
+    {
+      "name": "Рассказы"
+    }
+  ],
+  "location": "Grodno",
+  "accessibility": "открытый доступ",
+  "available": false,
+  "journal": [
+    {
+      "id": 1,
+      "client": {
+        "full_name": "Сидоров Андрей Иосифович",
+        "address": "г.Москва, ул.Советская, 64-12",
+        "phone_number": "1254-45665-5",
+        "document": "паспорт №d152475"
+      },
+      "date_from": "2018-01-15",
+      "date_by": "2018-02-05",
+      "date_return": ""
+    }
+  ]
+}{
+  "id": 4,
+  "title": "Приключения Незнайки и его друзей",
+  "author": [
+    {
+      "full_name": "Николай Носов"
+    }
+  ],
+  "publishing_house": "Самовар",
+  "year": 2015,
+  "number_pages": 160,
+  "genre": [
+    {
+      "name": "Повести"
+    },
+    {
+      "name": "Рассказы"
+    }
+  ],
+  "location": "Grodno",
+  "accessibility": "открытый доступ",
+  "available": false,
+  "journal": [
+    {
+      "id": 1,
+      "client": {
+        "full_name": "Сидоров Андрей Иосифович",
+        "address": "г.Москва, ул.Советская, 64-12",
+        "phone_number": "1254-45665-5",
+        "document": "паспорт №d152475"
+      },
+      "date_from": "2018-01-15",
+      "date_by": "2018-02-05",
+      "date_return": ""
+    }
+  ]
+}

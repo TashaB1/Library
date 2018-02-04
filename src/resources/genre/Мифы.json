@@ -1,0 +1,24 @@
+{
+  "id": 2,
+  "title": "12 подвигов Геракла",
+  "author": [
+    {
+      "full_name": "Анна Зимова"
+    }
+  ],
+  "publishing_house": "АСТ",
+  "year": 2016,
+  "number_pages": 80,
+  "genre": [
+    {
+      "name": "Мифы"
+    },
+    {
+      "name": "Легенды"
+    }
+  ],
+  "location": "Grodno",
+  "accessibility": "открытый доступ",
+  "available": true,
+  "journal": []
+}
